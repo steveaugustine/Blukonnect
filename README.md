@@ -17,8 +17,8 @@ Remeber to find the location of python on your system
 
 
 ## Bixby Routines Screen or Android Rule 
-
-Adjust delays as needed.
+* Set up necessary routines/actions
+* Adjust delays as needed.
 
 
 
