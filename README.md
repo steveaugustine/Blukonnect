@@ -1,5 +1,5 @@
 # Blukonnect
-A python script to seamlessly switch your bluetooth device connection between your MacBook and your phone.
+A python script to seamlessly switch between your bluetooth device connection between your MacBook and your phone.
 
 ## Requirments
 * Smartphone with smartroutines/rules/automator etc
