@@ -19,5 +19,6 @@ Remeber to find the location of python on your system
 ## Bixby Routines Screen or Android Rule 
 
 Adjust delays as needed.
-![routine](https://github.com/steveaugustine/Blukonnect/blob/07057b6e05783e27c8ef164039f681427d38fb55/Screenshot_20220906-210743_Bixby%20Routines.jpg | width=250)
+<img src="https://github.com/steveaugustine/Blukonnect/blob/07057b6e05783e27c8ef164039f681427d38fb55/Screenshot_20220906-210743_Bixby%20Routines.jpg" width="600">
+
 
