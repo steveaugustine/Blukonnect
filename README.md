@@ -24,4 +24,8 @@ Adjust delays as needed.
 
 <img src="https://github.com/steveaugustine/Blukonnect/blob/07057b6e05783e27c8ef164039f681427d38fb55/Screenshot_20220906-210743_Bixby%20Routines.jpg" width="300">
 
+<img src="https://github.com/steveaugustine/Blukonnect/blob/07057b6e05783e27c8ef164039f681427d38fb55/Screenshot_20220906-210743_Bixby%20Routines.jpg" width="300">
+
+
+
 
