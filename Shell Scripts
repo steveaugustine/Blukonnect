@@ -1,0 +1,12 @@
+
+//For running python script via Automator
+cd /Users/steveaugustine/Documents/pythongui/twilio/
+/opt/homebrew/bin/python3 tele.py
+
+
+
+
+//Turning on bluetooth using blueutil library(Google for more)
+export PATH=/usr/local/bin:/opt/homebrew/bin
+bluetoothStatus=$(blueutil -p)
+[[ $bluetoothStatus -eq 0 ]] && blueutil -p 1 && blueutil --connect 2c-be-eb-0b-8e-61 || blueutil -p 0
