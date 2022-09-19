@@ -16,7 +16,7 @@ Remeber to find the location of python on your system
 ![automator](https://github.com/steveaugustine/Blukonnect/blob/main/Automator.png)
 
 
-## Bixby Routines Screen or Android Rule 
+## Bixby Routines Screen| Andriod Rules Screen
 * Set up necessary routines/actions
 * Adjust delays as needed.
 
