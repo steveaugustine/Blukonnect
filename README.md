@@ -5,7 +5,7 @@ A python script to seamlessly switch your bluetooth device connection between yo
 * Smartphone with smartroutines/rules/automator etc
 * [Blueutil](https://github.com/toy/blueutil) library on Mac or similar library for Windows
 * Scheduling Program like Automator for Mac
-* Python based telegram bot
+* Python based [telegram bot](https://github.com/python-telegram-bot/python-telegram-bot)
 
 
 
