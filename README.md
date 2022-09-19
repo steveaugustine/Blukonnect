@@ -9,7 +9,7 @@ A python script to seamlessly switch your bluetooth device connection between yo
 
 
 
-## How Automator Should look like
+## What Automator should look like
 Remeber to find the location of python on your system
 
 
